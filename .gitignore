@@ -1,0 +1,4 @@
+/venv/
+/app/migrations/versions/
+*.DS_Store*
+*.idea/
